@@ -1,6 +1,8 @@
 <div>
 
   <h1>Desafio sobre validação e segurança #1 </h1>
+  
+  Este é um sistema de funcionários e departamentos com uma relação N-1 entre eles:
 
   <img height="300px"  align="center" src=https://i.imgur.com/iD6jMGP.png>
 
@@ -16,5 +18,9 @@ Passos para resolver:
 * Incluir infraestrutura de validação ao projeto
 * Incluir infraestrutura de segurança ao projeto
 * Implementar as funcionalidades
+ 
+<br></br>
+Collection do Postman: https://www.getpostman.com/collections/9c19a0ad21eb8a7d864a
+
 
 </div>
